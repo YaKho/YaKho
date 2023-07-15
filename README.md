@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Yaroslav. I'm C++ developer
+I'm currently taking a course at Yandex.Practice 😉
+
+### Tech stack
+<kbd>C/C++</kbd> <kbd>STL</kbd> <kbd>Git</kbd> <kbd>Linux</kbd> <kbd>Verilog HDL</kbd> <kbd>FPGA</kbd> <kbd>CMake</kbd> <kbd>RAII</kbd>
+ <kbd>Microsoft Visual Studio</kbd> <kbd>OOP</kbd> <kbd>Move-semantics</kbd> <kbd>UML</kbd> <kbd>Algorithms</kbd>
+ <kbd>C++17</kbd> <kbd>Multithread Programming</kbd> <kbd>Unit Testing</kbd>
 
 <!--
 **YaKho/YaKho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
