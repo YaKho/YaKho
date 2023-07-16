@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Yaroslav. I'm C++ developer
-I'm currently taking a course at Yandex.Practice 😉
+I'm currently taking a course at Yandex.Practicum 😉
 
 ### Tech stack
 <kbd>C/C++</kbd> <kbd>STL</kbd> <kbd>Git</kbd> <kbd>Linux</kbd> <kbd>Verilog HDL</kbd> <kbd>FPGA</kbd> <kbd>CMake</kbd> <kbd>RAII</kbd>
