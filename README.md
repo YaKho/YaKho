@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Yaroslav. I'm C++ developer
+### Hi there 👋 My name is Yaroslav
 
 ### Tech stack
 <kbd>C++</kbd> <kbd>STL</kbd> <kbd>Qt</kbd> <kbd>QML</kbd> <kbd>Python</kbd> <kbd>Linux</kbd> <kbd>Verilog HDL</kbd> <kbd>FPGA</kbd> <kbd>CMake</kbd>
